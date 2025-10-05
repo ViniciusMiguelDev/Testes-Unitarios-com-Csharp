@@ -1,0 +1,12 @@
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfoInputs.cache
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.AssemblyInfo.cs
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.csproj.CoreCompileInputs.cache
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.sourcelink.json
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.deps.json
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.dll
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\bin\Debug\net8.0\CalculadoraApp.pdb
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.dll
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\refint\CalculadoraApp.dll
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\CalculadoraApp.pdb
+C:\Users\Conta\OneDrive\Documentos\GitHub\Testes-Unitarios-com-Csharp\CalculadoraApp\obj\Debug\net8.0\ref\CalculadoraApp.dll
